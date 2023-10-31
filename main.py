@@ -1,3 +1,4 @@
+#Mariah Ferguson
 password = ''
 #encodes password
 def encode(password):
